@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @TheZatoshi
-- 👀 I’m interested in contributing cool ideas to new technology
+- 👋 Hello I’m @TheZatoshi
+- 👨‍💻 Learning how to use GitHub
 - 🌱 I’m currently learning python, js
-- 💞️ I’m looking to collaborate on applications and systems
-- 📫 Send an email to hello [at] zatoshi [dot] work
